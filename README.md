@@ -1,5 +1,5 @@
 ![logo](https://github.com/Snehasingh26/Netflix-Tableau-Dashboard/blob/main/Netflix%20dashboard.jpg)
-# 🎬 Netflix Dashboarddd using Tableau
+# 🎬 Netflix Dashboard using Tableau
 
 This Tableau dashboard explores content distribution on Netflix including content type, country distribution, genre trends, and ratings breakdown. It helps users understand viewing trends and Netflix’s content strategy across the globe.
 
